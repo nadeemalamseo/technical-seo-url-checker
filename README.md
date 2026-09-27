@@ -19,7 +19,7 @@ The checker reports **observable page and HTTP evidence**. It does not claim to 
 
 ## Requirements
 
-- Python 3.9+
+- Python 3.10+
 - `requests`
 - `beautifulsoup4`
 
