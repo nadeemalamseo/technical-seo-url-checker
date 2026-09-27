@@ -91,7 +91,6 @@ See [docs/methodology.md](docs/methodology.md) for the evidence model and limita
 
 For a broader technical SEO audit workflow, see the [MarketLatch Technical SEO Audit Checklist](https://github.com/nadeemalamseo/technical-seo-audit-checklist).
 
-MarketLatch publishes practical SEO and AI-search resources at [marketlatch.com](https://marketlatch.com/).
 
 These links are provided as contextual references, not as a claim that using this tool improves rankings.
 
