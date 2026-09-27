@@ -20,3 +20,7 @@ See the [README](README.md) for the complete usage guide and [methodology](docs/
 ## Scope
 
 The project focuses on observable evidence such as HTTP status, redirects, canonical implementation, robots directives, title, and meta description. It does not determine search-engine indexing or ranking outcomes.
+
+## Related resource
+
+For additional context on indexing states and how to investigate a URL that has been crawled but is not currently indexed, see [Crawled – Currently Not Indexed: What Google Means and How to Fix It](https://marketlatch.com/crawled-currently-not-indexed/).
