@@ -2,11 +2,18 @@
 
 Technical SEO URL Checker is a small Python utility for inspecting URL-level HTTP and HTML signals.
 
-## Quick start
+## Get the tool
+
+This is a **command-line tool**, not a browser-based checker.
+
+[Download the latest source as a ZIP](https://github.com/nadeemalamseo/technical-seo-url-checker/archive/refs/heads/main.zip) or open the [GitHub repository](https://github.com/nadeemalamseo/technical-seo-url-checker).
+
+After downloading and extracting:
 
 ```bash
 python -m pip install -r requirements.txt
 python seo_url_checker.py https://example.com/
+python seo_url_checker.py https://example.com/ --json
 ```
 
 For structured output:
