@@ -108,4 +108,5 @@ See [SECURITY.md](SECURITY.md).
 
 ## License
 
-No open-source license has been granted in this repository. Unless a separate license is added, the repository contents remain under their default copyright terms.
+This repository is licensed under the MIT License. See [LICENSE](LICENSE).
+
